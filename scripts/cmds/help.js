@@ -5,7 +5,7 @@ module.exports = {
   config: {
     name: "help",
     version: "1.17",
-    author: "Rifat",
+    author: "SO H AN ",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -57,7 +57,7 @@ module.exports = {
       const totalCommands = commands.size;
       msg += `\n\n⭔Bot has ${totalCommands} commands\n⭔Type ${prefix}𝐡𝐞𝐥𝐩 <𝚌𝚘𝚖𝚖𝚊𝚗𝚍 𝚗𝚊𝚖𝚎> to learn Usage.\n`;
       msg += ``;
-      msg += `\n╭─✦ADMIN: Rifat Ahmed 🧃\n├‣ FACEBOOK\n╰‣:https:https://m.me/xitzefox48`; // customize this section if needed
+      msg += `\n╭─✦ADMIN: Sohan ahmed 🧃\n├‣ FACEBOOK\n╰‣:https://www.facebook.com/yuta.sohan7; // customize this section if needed
 
       try {
         const hh = await message.reply({ body: msg });
